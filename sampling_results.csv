@@ -1,0 +1,26 @@
+Sampling Technique,Model,Accuracy
+Sampling1,Logistic Regression,0.5
+Sampling1,Decision Tree,0.5
+Sampling1,Random Forest,0.5
+Sampling1,KNN,0.8333333333333334
+Sampling1,SVM,0.3333333333333333
+Sampling2,Logistic Regression,0.0
+Sampling2,Decision Tree,0.6666666666666666
+Sampling2,Random Forest,0.3333333333333333
+Sampling2,KNN,0.3333333333333333
+Sampling2,SVM,0.3333333333333333
+Sampling3,Logistic Regression,0.6666666666666666
+Sampling3,Decision Tree,0.6666666666666666
+Sampling3,Random Forest,0.6666666666666666
+Sampling3,KNN,0.6666666666666666
+Sampling3,SVM,0.6666666666666666
+Sampling4,Logistic Regression,0.3333333333333333
+Sampling4,Decision Tree,0.6666666666666666
+Sampling4,Random Forest,0.3333333333333333
+Sampling4,KNN,0.3333333333333333
+Sampling4,SVM,0.3333333333333333
+Sampling5,Logistic Regression,0.8333333333333334
+Sampling5,Decision Tree,1.0
+Sampling5,Random Forest,0.8333333333333334
+Sampling5,KNN,0.8333333333333334
+Sampling5,SVM,0.6666666666666666
